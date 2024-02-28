@@ -6,6 +6,6 @@ Use this file to help you navigate this repository.
 
 <https://github.com/B1N3T/Projects/tree/main/Arduino>
 
-## Cyber Security ##
+## Encryption ##
 
 <https://github.com/B1N3T/Projects/tree/main/Encryption/ceaser_cypher>
